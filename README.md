@@ -18,7 +18,7 @@
    ```
    
 
-2. **Installed libraries**:
+2. **Install libraries**:
    ```
    pip install-r requirements.txt
    ```
