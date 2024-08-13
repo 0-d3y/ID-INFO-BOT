@@ -8,6 +8,9 @@
 
 
 **ID-INFO-BOT** Telegram bot to retrieve information about users' ID, programmed in Python language Telebot library
+
+# First of all, you must put your bot token in line 6 by creating a bot via BotFather.
+
 ## Installation
 
 1. **Clone the Repository**:
